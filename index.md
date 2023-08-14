@@ -30,7 +30,7 @@ The second project is the creation of workshops to teach people with ADHD and ma
 
 This project is unlikely to be completed in full during the DREU Program and will be a continuing collaboration with Dr. Nur into further semesters.
 
-### Project 3 — Assisting With The Development of a Math Education App.
+### Project 3 — Assisting With The Development of a Math Education App
 Victor Tumbiolo is another student in the DREU Program with the same advisor as me, Dr. Nasheen Nur. As part of his DREU Program, he is working on an educational math app. I may contribute to this app and will blog about it if and when I do. He will have more complete information on the development of the app on [his DREU Program website](https://vtumbioloslick.github.io/).
 
 [My Final Report](files/finalreport.pdf)
